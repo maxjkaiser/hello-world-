@@ -3,7 +3,7 @@
 ## Table of Contents
 - [PROJECT TITLE]
 - [DESCRIPTION]
-- [ISTRUCTIONS]
+- [INSTRUCTIONS]
 
 
 
